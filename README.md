@@ -1,4 +1,4 @@
-# Hi, I'm Behzad Bagherzadeh ⚡
+# Hi, I'm Behzad Bagherzadeh
 
 ```typescript
 const architect = {
