@@ -1,18 +1,12 @@
-<div align="center">
-  <h1>Behzad Bagherzadeh</h1>
-  <p><strong>System Architect & Full-Stack Engineer</strong></p>
-  <p><em>"Software is a load-bearing structure under stress."</em></p>
+# BEHZAD BAGHERZADEH
+#### System Architect & Full-Stack Engineer
+> *"Software is a load-bearing structure under stress."*
 
-  <p>
-    <a href="https://behzad.bz"><img src="https://img.shields.io/badge/Website-behzad.bz-ea580c?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
-    <a href="https://linkedin.com/in/behzadbagherzadeh"><img src="https://img.shields.io/badge/LinkedIn-behzadbagherzadeh-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:contact@behzad.bz"><img src="https://img.shields.io/badge/Email-contact%40behzad.bz-gray?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  </p>
-</div>
+[Portfolio](https://behzad.bz) / [LinkedIn](https://linkedin.com/in/behzadbagherzadeh) / [Contact](mailto:contact@behzad.bz)
 
 ---
 
-### ⚡ Operational Overview
+### Operational Profile
 
 ```typescript
 interface ArchitectProfile {
@@ -38,23 +32,33 @@ const behzad: ArchitectProfile = {
   executionModel: "Solo Full-Cycle Architecture & Deployment"
 };
 
-🛠 Core Technical Stack
-🚀 Flagship Track Record
-🏋️ Liwa Club Platform — Live Production Athlete Telemetry
-Role: Lead Architect & Full-Stack Developer (Solo Execution).
+Core Technical Arsenal
+Frontend Runtimes: Next.js (App Router), TypeScript 5, React, TanStack Query, Tailwind CSS, Shadcn UI, Zod
 
-Impact: Engineered an end-to-end athlete monitoring and coaching platform supporting 140+ active concurrent users with zero operational downtime.
+Backend & Data Layer: Node.js, PostgreSQL, Supabase, Drizzle ORM, Better-Auth, REST & WebSockets
 
-Data Engineering: Modeled relational database schemas, automated migrations, and optimized query execution plans using Drizzle ORM and PostgreSQL/Supabase to guarantee sub-100ms response times on high-frequency metrics.
+Infrastructure & Systems: Linux (Ubuntu/Debian), Docker & Docker Compose, VPS Management, CI/CD, Vercel, Termius
 
-Telemetry UI: Built interactive, client-side data profilers, telemetry dashboards, and live analytical charts with TanStack Query and custom UI primitives.
+Architectural Disciplines: Modular Monoliths, Defensive Schema Modeling, Zero-Trust State Validation, Load-Bearing Systems Design
 
-🌐 behzad.bz — Personal Architectural Showcase
-Designed and deployed an interactive portfolio featuring dynamic load simulators, cluster telemetry visualization, and database query plan visualizers.
+Production Track Record
+Liwa Platform — Athlete Monitoring & Telemetry
+Capacity: Lead Architect & Full-Stack Engineer (Solo Execution)
 
-Integrated dual-language (EN/FA) runtime configuration, dark-mode native aesthetics with OKLCH color spaces, and headless performance tuning.
+Scale: Architected and deployed an end-to-end athlete telemetry and monitoring platform supporting 140+ active concurrent users with zero operational downtime.
 
-🏃 Beyond Code: Physical Discipline & Resilience
-Outside of systems engineering, I am a semi-professional endurance and trail runner logging 60–80 km weekly with high vertical elevation gain.
+Data Engineering: Modeled relational schemas, automated migrations, and optimized query execution plans with Drizzle ORM and PostgreSQL/Supabase, sustaining sub-100ms latency on heavy analytical reads.
 
-The mental composure, acute focus, and relentless consistency required to conquer mountain summits (like Mount Damavand & Alam-Kuh) and maintain race paces directly fuel how I build software: defensive, unyielding, and engineered to endure extreme pressure without failure.
+Telemetry UI: Engineered high-performance, client-side data profilers, telemetry dashboards, and live analytical visualizations.
+
+behzad.bz — Architectural Portfolio & Interactive Engine
+Designed and deployed a minimal, high-performance web platform featuring custom interactive load profilers, cluster telemetry visualizers, and database query plan simulators.
+
+Implemented native dual-language runtimes (EN/FA) and bespoke design tokens utilizing OKLCH color spaces.
+
+Operational Tenets
+Engineering high-stakes systems requires the same uncompromising discipline demanded by high-volume endurance running. Operating with an autonomous execution model, I design software with defensive architectures, zero-compromise type safety, and predictable runtimes built to withstand peak operational tension.
+
+Available for select architectural consulting, systems design, and technical leadership.
+
+Direct Inquiry: contact@behzad.bz
